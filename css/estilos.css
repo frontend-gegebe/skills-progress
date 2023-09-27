@@ -1,0 +1,45 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  padding:10px;
+}
+
+h1 {
+  font-size: 48px;
+}
+
+p {
+  margin: 20px 0;
+}
+
+.container {
+  background: rgb(221,221,221);
+  height: 50px;
+}
+
+.skills {
+  height: 50px;
+  text-align: right;
+  padding: 14px;
+  color:white;
+}
+
+.html {
+  background:rgb(2,170,109);
+  width: 90%;
+}
+
+.css {
+  background:rgb(32,150,243);
+  width: 80%;
+}
+
+.js {
+  background: rgb(244,66,54);
+  width: 65%;
+}
+
+.php {
+  background: rgb(128,128,128);
+  width:60%;
+}
